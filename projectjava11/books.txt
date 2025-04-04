@@ -1,0 +1,4 @@
+Rich Dad poor Dad,Robert,1997
+The power of Now,Eckhart,2016
+Think and Grow,Napoleon,1937
+java,jeddah,2024
